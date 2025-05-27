@@ -8,7 +8,8 @@ This project scans your AWS account daily for:
 
 ## 🧱 Architecture
 
-![image](https://github.com/user-attachments/assets/d83037af-f11e-47af-b3fd-72e58ce30c3b)
+![image](https://github.com/user-attachments/assets/ba6a7ab1-ebda-471e-991d-e860a65e92cf)
+
 
 
 ## 🚀 Setup

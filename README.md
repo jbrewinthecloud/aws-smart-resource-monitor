@@ -8,7 +8,8 @@ This project scans your AWS account daily for:
 
 ## 🧱 Architecture
 
-![Diagram](diagrams/architecture.png)
+![image](https://github.com/user-attachments/assets/d83037af-f11e-47af-b3fd-72e58ce30c3b)
+
 
 ## 🚀 Setup
 
@@ -34,4 +35,4 @@ Unused Security Group: sg-1a2b3c Name: legacy-db
 🚀 If you liked this guide…  
 👉 Follow me for more AWS automation projects  
 👉 Check out my portfolio: https://jbrewinthecloud.com  
-👉 Let’s connect on LinkedIn! Jermaine Brewer
+👉 Let’s connect on LinkedIn! [Jermaine Brewer](https://www.linkedin.com/in/jermainebrewer/)
